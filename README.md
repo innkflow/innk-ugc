@@ -1,17 +1,16 @@
 # innk-ugc 🌊🔥
+**© 2026 InnkFlow Studio — Todos los derechos reservados**  
 Repositorio oficial para **Innk UGC Emotes** (2026–presente)
 
----
-
 ## 🏷️ InnkFlow Studio
-**Independent development studio** enfocado en scripts, sistemas UI y herramientas para juegos.
+**InnkFlow Studio** es un estudio de desarrollo independiente enfocado en scripts, sistemas de UI y herramientas para juegos.
 
-- **Founder / Developer:** klipeo  
-- **Founded:** 2026  
-- **Type:** Independent Studio  
+- **Fundador / Desarrollador:** klipeo  
+- **Fundado:** 2026  
+- **Tipo:** Estudio Independiente  
 
----
-
+### 📜 Información del Studio
+InnkFlow Studio Fundado: 2026 Fundador: klipeo Tipo: Estudio de Desarrollo Independiente Enfoque: Scripts, sistemas de UI y herramientas para juegos
 ## INNK UGC Loader
 
 <p align="center">
@@ -20,12 +19,9 @@ Repositorio oficial para **Innk UGC Emotes** (2026–presente)
 
 ![Roblox UGC Loader](https://img.shields.io/badge/Roblox-UGC%20Loader-red?style=flat)
 
-**Loader remoto para Roblox** que ejecuta el script principal directamente desde **GitHub RAW**.
-
----
+Loader remoto para Roblox que ejecuta el script principal directamente desde **GitHub RAW**.
 
 ## 📌 Uso
 ### 🌊 innk core • v0.0.1
-
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/innkflow/innk-ugc/main/raw.luau"))()
