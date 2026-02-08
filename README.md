@@ -1,5 +1,5 @@
 # innk-ugc 🌊🔥
-**© 2026 InnkFlow Studio — Todos los derechos reservados**  
+**© 2026 InnkFlow Studio & InnkFlow Inc. — Todos los derechos reservados**  
 Repositorio oficial para **InnkFlow Inc.** (2026–presente)
 
 ## 🏷️ InnkFlow Studio & InnkFlow Inc.
