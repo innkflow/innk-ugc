@@ -2,15 +2,17 @@
 Repositorio oficial para 'Innk - Ugc - Emots' en 2026 y actualizaciones 
 # INNK UGC Loader
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+<p align="center">
+  <img src="assets/preview.png" width="650">
+</p>
+
+![Roblox UGC Loader](https://img.shields.io/badge/Roblox-UGC%20Loader-red?style=flat)
 
 Loader remoto para Roblox que ejecuta el script principal directamente desde GitHub RAW.
 
 ---
 
 ## 📌 Uso
-
-Ejecuta el siguiente código en tu executor:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/innkflow/innk-ugc/main/raw.luau"))()
