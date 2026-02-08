@@ -3,7 +3,7 @@ Repositorio oficial para 'Innk - Ugc - Emots' en 2026 y actualizaciones
 # INNK UGC Loader
 
 <p align="center">
-  <img src="assets/preview.png" width="650">
+  <img src="hi.jpg" width="650">
 </p>
 
 ![Roblox UGC Loader](https://img.shields.io/badge/Roblox-UGC%20Loader-red?style=flat)
