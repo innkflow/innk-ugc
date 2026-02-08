@@ -13,6 +13,6 @@ Loader remoto para Roblox que ejecuta el script principal directamente desde Git
 ---
 
 ## 📌 Uso
-
+### 🌊 innk core • 0.0.1
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/innkflow/innk-ugc/main/raw.luau"))()
