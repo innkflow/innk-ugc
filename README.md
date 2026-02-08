@@ -1,8 +1,8 @@
 # innk-ugc 🌊🔥
 **© 2026 InnkFlow Studio — Todos los derechos reservados**  
-Repositorio oficial para **Innk UGC Emotes** (2026–presente)
+Repositorio oficial para **InnkFlow Inc.** (2026–presente)
 
-## 🏷️ InnkFlow Studio
+## 🏷️ InnkFlow Studio & InnkFlow Inc.
 **InnkFlow Studio** es un estudio de desarrollo independiente enfocado en scripts, sistemas de UI y herramientas para juegos.
 
 - **Fundador / Desarrollador:** klipeo  
